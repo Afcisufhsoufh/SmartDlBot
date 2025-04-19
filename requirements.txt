@@ -10,3 +10,4 @@ youtube-search-python
 tgcrypto
 pymongo
 moviepy
+Flask
