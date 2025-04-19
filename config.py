@@ -10,3 +10,5 @@ ADMIN_IDS = list(map(int, os.getenv("ADMIN_IDS").split(',')))
 SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
 MONGO_URL = os.getenv("MONGO_URL")
+COOMAND_PREFIX = [".", "/", ",", "!"]
+YT_COOKIES_PATH= "./cookies/ItsSmartToolBot.txt"
