@@ -7,4 +7,6 @@ asyncio
 aiofiles
 aiohttp
 youtube-search-python
+tgcrypto
+pymongo
 moviepy
